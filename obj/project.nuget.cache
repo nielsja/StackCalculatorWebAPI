@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uKuWSC7/f+sl1Xf5NU0SGlRZptKDWPk81Bas76kG0Czg8MEr0jWFpgnUAuWu5UnD0+FbDDIzZme4+47yrZtOpw==",
+  "dgSpecHash": "lnxc4rifhGJ4iF0eH7Ph4XfBY/stH9lRFqzs6srUd6KW2XuL8C/xPZfh+EbeoFoTds25nYlzDsBF1FU3WmM92Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NEDL\\Desktop\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\NEDL\\Desktop\\GitProjects\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -6012,11 +6012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NEDL\\Desktop\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\NEDL\\Desktop\\GitProjects\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
       "projectName": "StackCalculatorWebAPI",
-      "projectPath": "C:\\Users\\NEDL\\Desktop\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
+      "projectPath": "C:\\Users\\NEDL\\Desktop\\GitProjects\\StackCalculatorWebAPI\\StackCalculatorWebAPI.csproj",
       "packagesPath": "C:\\Users\\NEDL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NEDL\\Desktop\\StackCalculatorWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\NEDL\\Desktop\\GitProjects\\StackCalculatorWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
